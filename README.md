@@ -43,7 +43,10 @@
 </span>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact&hide=scss,css">
+
+hided css
+<br><br>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hanav00&show_icons=true&theme=omni">
