@@ -2,10 +2,13 @@
 
 <div align="center">
 
+
 <h3>✨ Contact me ✨</h3>
 
 <img src="https://img.shields.io/badge/minie000309@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/minie2000@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
+
+
 <br>
 <h3>✨ Visit My Tistory! ✨</h3>
  
