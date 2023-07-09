@@ -3,7 +3,13 @@
 <div align="center">
 
 
-<h3>✨ Contact me ✨</h3>
+Hi there! I am Minyoung Kim from South Korea.
+
+My major is Mechanical Engineering, but now I'm studying hard to becom a developer😃
+
+<br>
+
+<h3>✨ If you want to contact me ✨</h3>
 
 <img src="https://img.shields.io/badge/minie000309@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/minie2000@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
