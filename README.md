@@ -52,14 +52,16 @@ My major is Mechanical Engineering, but now I'm studying hard to becom a develop
 </span>
 
 <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact">
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact&hide=scss,css">
+-->
 
-hided css
 <br><br>
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=hanav00&show_icons=true&theme=omni">
-
+-->
 </div>
 <!--
 **hanav00/hanav00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
