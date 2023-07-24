@@ -10,7 +10,7 @@
 
 <h3>🎓 Education:</h3>
 
-- [ 2023.03 ~ 2023.07 ]Graduate of the Enterprise Project-based Software Developer Course at Korea Chamber of Commerce & Industry Seoul Technical Education Center (Outstanding Student Award)
+- [ 2023.03 ~ 2023.07 ] Graduate of the Enterprise Project-based Software Developer Course at Korea Chamber of Commerce & Industry Seoul Technical Education Center (Outstanding Student Award)
 - [ 2019.03 ~ 2023.07 ] Bachelor's Degree in Mechanical Automotive Engineering from Seoul University of Science and Technology (SeoulTech)
 
 
@@ -63,10 +63,10 @@
 📈 You can find my projects and code mainly on GitHub. Feel free to explore my GitHub profile!
 
 <h3>📊 Language usage statistics within my GitHub repositories:</h3>
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact">
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact&hide=scss,css">
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav00&layout=compact&hide=scss,css">
 
 <br>
 
