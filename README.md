@@ -10,7 +10,7 @@
 
 <h3>🎓 Education:</h3>
 
-- [ 2023.03 ~ 2023.07 ] Graduate of the Enterprise Project-based Software Developer Course at Korea Chamber of Commerce & Industry Seoul Technical Education Center (Outstanding Student Award)
+- [ 2023.03 ~ 2023.07 ] Graduate of the Enterprise Project-based Software Developer Course at Korea Chamber of Commerce & Industry Seoul Technical Education Center (Awarded as an Outstanding Student)
 - [ 2019.03 ~ 2023.07 ] Bachelor's Degree in Mechanical Automotive Engineering from Seoul University of Science and Technology (SeoulTech)
 
 
