@@ -79,7 +79,7 @@
 
 <br><br>
 
-***Feel free to contact me : minie2000@naver.com***
+***Feel free to contact me : minie000309@gmail.com***
 <!--LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)-->
 
 ***And you can also visit my TechBlog. Enjoy!***
