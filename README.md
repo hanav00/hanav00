@@ -11,7 +11,7 @@
 
 <h2>
  
- ***🌱 Software Developer🌱***
+ ***Software Developer***
  
  </h2>
 
@@ -30,7 +30,7 @@
  <br>
 
  <h3>
- 
+
  ***Sub Skills***
 
  </h3>
@@ -51,7 +51,7 @@
 
 </h3>
 
-### Software Developer | NETPAS
+### Associated Research Engineer | <a href="https://www.netpas.net/">NETPAS Inc. R&D Center </a>
 *Seoul, South Korea* | *August 2023* ~ *ing*
 
 
