@@ -23,8 +23,10 @@
 </h3>
   
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.NET&logoColor=white" width="100" height="40"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100" height="40"/>
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.NET&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="40"/>
 
  
  <br>
@@ -79,7 +81,7 @@
 
 <br><br>
 
-***Feel free to contact me : minie000309@gmail.com***
+***Feel free to contact me : cestinadev@gmail.com***
 <!--LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)-->
 
 ***And you can also visit my TechBlog. Enjoy!***
