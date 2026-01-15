@@ -59,29 +59,40 @@
 
  <br><br>
 
+<h3>
+
+***Training / Bootcamps***
+
+</h3>
+
+*(Feb 2026 - May 2026)*  
+***AI/LLM Service Development Bootcamp (Enrolled)***  
+<sup style="font-size: 10px;">*<a href="https://camp.modulabs.co.kr/llm">Modulabs Camp</a>*</sup>  
+<sup style="font-size: 10px;">*LangChain · RAG · LLM Application Development & Deployment*</sup>
+
+<br>
+
+*(Mar 2023 - Jul 2023)*  
+***Completed the Enterprise Project-based Software Developer Course***  
+<sup style="font-size: 10px;">*Korea Chamber of Commerce & Industry Seoul Technical Education Center*</sup>
+
+<br><br>
+
  <h3>
 
 ***Education***
 
 </h3>
 
-   *(March 2023 - July 2023)*
- ***Graduate of the Enterprise Project-based Software Developer Course***
- 
-<sup style="font-size: 10px;">*Korea Chamber of Commerce & Industry Seoul Technical Education Center*</sup>
+*(Mar 2019 - Jul 2023)*  
+***Bachelor's Degree in Mechanical Automotive Engineering***  
+<sup style="font-size: 10px;">*Seoul University of Science and Technology (SeoulTech)*</sup>
 
   
-  
-
-  *(March 2019 - July 2023)*
- ***Bachelor's Degree in Mechanical Automotive Engineering***
-
-  <sup style="font-size: 10px;">*Seoul University of Science and Technology (SeoulTech)*</sup>
-  
-
 <br><br>
 
 ***Feel free to contact me : cestinadev@gmail.com***
+
 <!--LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)-->
 
 ***And you can also visit my TechBlog. Enjoy!***
