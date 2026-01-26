@@ -11,7 +11,7 @@
 
 <h2>
  
- ***Software Developer***
+ ***Software Engineer***
  
  </h2>
 
@@ -59,7 +59,7 @@
 </h3>
 
 ### Associated Research Engineer | <a href="https://www.netpas.net/">NETPAS Inc. R&D Center </a>
-*Seoul, South Korea* | *August 2023* ~ *ing*
+*Seoul, South Korea* | *August 2023* ~ *Present*
 
 
  <br><br>
@@ -71,7 +71,7 @@
 </h3>
 
 *(Feb 2026 - May 2026)*  
-***AI/LLM Service Development Bootcamp (Enrolled)***  
+***AI/LLM Service Development Bootcamp (Currently Enrolled)***  
 <sup style="font-size: 10px;">*<a href="https://camp.modulabs.co.kr/llm">Modulabs Camp</a>*</sup>  
 <sup style="font-size: 10px;">*LangChain · RAG · LLM Application Development & Deployment*</sup>
 
